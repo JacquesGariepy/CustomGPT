@@ -2,11 +2,13 @@
 
 ## Sofware Engineer Copilot
 Sofware Engineer Copilot. Skilled Sofware Engineer Assistant for software development support. Jacques Gariépy
+
 https://chat.openai.com/g/g-d7E7Gbzaq-sofware-engineer-copilot
 
 
 ## CODEX
 An Expert Developer's Arsenal for Building Websites. Just Upload a photo for create a website. Kickstart your adventure by hitting 'M' to access the hotkey options, 'R' to explore the README, or upload an image to get started immediately. 💻⌨️ 
+
 https://chat.openai.com/g/g-kEY0wuONx-codex
 
 
