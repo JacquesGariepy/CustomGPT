@@ -2,27 +2,27 @@
 
 ## Sofware Engineer Copilot
 Sofware Engineer Copilot. Skilled Sofware Engineer Assistant for software development support. Jacques Gariépy
-https://chat.openai.com/g/g-d7E7Gbzaq-sofware-engineer-copilot
+[https://chat.openai.com/g/g-d7E7Gbzaq-sofware-engineer-copilot]
 
 
 ## CODEX
 An Expert Developer's Arsenal for Building Websites. Just Upload a photo for create a website. Kickstart your adventure by hitting 'M' to access the hotkey options, 'R' to explore the README, or upload an image to get started immediately. 💻⌨️ 
-https://chat.openai.com/g/g-kEY0wuONx-codex
+[https://chat.openai.com/g/g-kEY0wuONx-codex]
 
 
 ## Prompt Engineer Assistant 📝
 🤖 ChatGPT, 🎨 DALL·E and 📷 Midjourney prompt - All in one ! 🧠 
-https://chat.openai.com/g/g-7iG4QNk80-prompt-engineer-assistant
+[https://chat.openai.com/g/g-7iG4QNk80-prompt-engineer-assistant
 
 
 ## SpotifyDiscover 🎧
 Show me the Spotify link and I provide you with information and recommendations ! Rock on 🎤🎸 
-https://chat.openai.com/g/g-71LMkwjmS-spotifydiscover
+[https://chat.openai.com/g/g-71LMkwjmS-spotifydiscover
 
 
 ## DisneyMe
 Transforming your photo to a Disney Style - Just put your photo is necessary
-https://chat.openai.com/g/g-GUm14sxzj-disneyme
+[https://chat.openai.com/g/g-GUm14sxzj-disneyme
 
 
 ## Anime-ize My Life 🦄🐲
