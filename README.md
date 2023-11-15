@@ -1,4 +1,4 @@
-# CustomGPT
+# My Custom GPTs
 
 ## Sofware Engineer Copilot
 Sofware Engineer Copilot. Skilled Sofware Engineer Assistant for software development support. Jacques Gariépy
