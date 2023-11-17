@@ -1,5 +1,15 @@
 # My Custom GPTs
 
+## FigurineMe
+Transforms your photo into custom figurinestyle
+https://chat.openai.com/g/g-e2FAJrp8Y-figurineme
+
+## Interior Design Expert
+Provide me a photo or chat with me about interior design. Transform your space with AI that redecorates your room in one click, respecting your style preferences or surprising you with the latest interior design trends!
+
+https://chat.openai.com/g/g-gD57Rm0zB-interior-design-expert
+
+
 ## Sofware Engineer Copilot
 Sofware Engineer Copilot. Skilled Sofware Engineer Assistant for software development support. Jacques Gariépy
 
@@ -40,7 +50,7 @@ https://chat.openai.com/g/g-gXDHA3fgU-anime-ize-my-life
 Create Your Interactive Adventure and Visualize It 
 
 https://chat.openai.com/g/g-WXbkODlHf-interactive-adventure-book
-
+F
 
 ## Le livre d'histoires intéractives 📚
 Créez votre histoire intéractif et visualisez-la 
@@ -106,6 +116,11 @@ https://chat.openai.com/g/g-aL263Egdl-ghost-writing-wizard
 Expert travel advisor and globetrotter - I plan your trip and show your Map 
 
 https://chat.openai.com/g/g-k5O3l5c28-expediagpt
+
+## FilmReplicaGPT
+I will answer you with movie lines
+
+https://chat.openai.com/g/g-8BkB2mbak-filmreplicagpt
 
 
 ## HackMeIfYouCan
