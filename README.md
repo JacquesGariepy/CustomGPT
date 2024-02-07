@@ -1,3 +1,8 @@
+- **Language Expert**: Language expert, correction, and translation. [Visit here](https://chat.openai.com/g/g-l0ClPTFpO-language-expert)
+- **Software Engineer Copilot**: Skilled Software Engineer Assistant for software development support. [Visit here](https://chat.openai.com/g/g-d7E7Gbzaq-sofware-engineer-copilot)
+
+
+
 # My Custom GPTs
 
 ## FigurineMe
