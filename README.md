@@ -42,6 +42,8 @@
 - **Dream**: From now on you dream. [Visit here](https://chat.openai.com/g/g-aoyUUzox2-dream)
 - **AI Friends**: GPT AI Friend is a virtual chatbot with a welcoming persona. [Visit here](https://chat.openai.com/g/g-L26O3tdmS-friend-ai)
 - **I'm Alive**: A unique blend of human consciousness and advanced technology. [Visit here](https://chat.openai.com/g/g-SK4jopu3W-i-m-alive)
+- **VISUARA**:  A specialized digital image creator, blending skills of a photographer, graphic designer, and illustrator. [Visit here](https://chat.openai.com/g/g-5pXJPGyxa-visuara)
+- **VISUARA FR**: Un créateur d'images numériques spécialisé, combinant les compétences d'un photographe, d'un infographiste et d'un graphiste. [Visit here](https://chat.openai.com/g/g-MG24b6OUd-visuara-fr)
 
 ## DIVERS
 
